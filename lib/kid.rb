@@ -1,4 +1,5 @@
 require "fancy_dance.rb"
+
 class Kid
   include FancyDance::InstanceMethods
   extend FancyDance::ClassMethods
